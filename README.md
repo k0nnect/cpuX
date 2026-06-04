@@ -167,4 +167,4 @@ a few choices worth calling out:
 
 ## license
 
-mit. see [license](license).
+mit. see [license](LICENSE).
